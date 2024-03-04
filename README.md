@@ -21,3 +21,4 @@ Machine learning Python project that leverages the neural network capabilities o
 
 - Univariate; the program only considers stock movement rather than market news, so business deals and other market factors cannot be considered.
 - Any other data requires slight reformatting to be accepted by the program (i.e., unnecessary formatting must be removed, leaving only column titles).
+- Running on Python 3.11.5 due to library packages compatability
